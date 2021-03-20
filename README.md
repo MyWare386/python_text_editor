@@ -11,7 +11,7 @@ A simple python text editor made by me
 Installation
 ----------------
 
-<h3>Executable</h3>
+- <h3>Executable</h3>
 
 Choose the theme that you want : dark or white.
 
@@ -19,7 +19,7 @@ Download and launch the "texteditor_[your-color].exe".
 
 <br>
 
-<h3>Python</h3>
+- <h3>Python</h3>
 
 | ⚠️ Python must be installed on your computer
 |---
@@ -32,7 +32,7 @@ Write this line in the command prompt :
 
 <br>
 
-<h3>Other</h3>
+- <h3>Other</h3>
 
 Some code editor let you execute python file directly.
 
