@@ -8,6 +8,11 @@ A simple and hackable text editor made by me with Python.
 
 <br>
 
+Contents
+----------------
+
+<br>
+
 Installation
 ----------------
 
@@ -34,12 +39,16 @@ Write this line in the command prompt :
 
 - <h3>Other</h3>
 
-Some code editor let you execute python file directly.
+Some code editor let you execute python files directly.
+
+<br>
 
 Dark Mode
 ----------------
 
 To use the dark mode, you must choose "texteditor_dark.exe/.py" when you install the editor.
+
+<br>
 
 White Mode
 ----------------
