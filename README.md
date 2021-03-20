@@ -4,7 +4,8 @@
 
 A simple and hackable text editor made by me with Python.
 
-<br>
+🐍 🖋️ ✍️
+_____________________________
 
 Contents
 ----------------
