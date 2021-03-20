@@ -50,6 +50,8 @@ Write this line in the command prompt :
 
 Some code editor let you execute python files directly.
 
+Or you can run the compiled pyhton file.
+
 <br>
 
 Dark Mode
