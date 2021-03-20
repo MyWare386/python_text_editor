@@ -6,6 +6,8 @@ A simple and hackable text editor made by me with Python.
 
 🐍 🖋️ ✍️
 
+<br>
+
 Contents
 ----------------
 
@@ -18,8 +20,7 @@ Contents
 - <a href="https://github.com/MyWare386/python_text_editor#web">Web</a>
 - <a href="https://github.com/MyWare386/python_text_editor#credits">Credits</a>
 
-
-___________________________________
+<br>
 
 Installation
 ----------------
@@ -63,12 +64,12 @@ White Mode
 
 To use the dark mode, you must choose "texteditor_white.exe/.py" when you install the editor.
 
-__________________________________
+<br>
 
 Web
 -------------------------------
 
-_____________________________________
+<br>
 
 Credits
 --------------------------------
