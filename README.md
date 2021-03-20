@@ -39,5 +39,9 @@ Some code editor let you execute python file directly.
 Dark Mode
 ----------------
 
+To use the dark mode, you must choose "texteditor_dark.exe/.py" when you install the editor.
+
 White Mode
 ----------------
+
+To use the dark mode, you must choose "texteditor_white.exe/.py" when you install the editor.
