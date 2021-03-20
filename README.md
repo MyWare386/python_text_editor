@@ -11,6 +11,8 @@ A simple and hackable text editor made by me with Python.
 Contents
 ----------------
 
+- <a href="To use the dark mode, you must choose "text
+
 <br>
 
 Installation
