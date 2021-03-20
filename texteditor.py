@@ -23,26 +23,26 @@ class TextEditor:
     self.status = StringVar()
 
     # Creating Titlebar
-    self.titlebar = Label(self.root,textvariable=self.title,font=("Segoe UI",9),bd=2,relief=GROOVE)
+    self.titlebar = Label(self.root,textvariable=self.title,font=("Consolas",9),bd=2,relief=FLAT,bg="#161B22",foreground="white")
     # Packing Titlebar to root window
     self.titlebar.pack(side=TOP,fill=BOTH)
     # Calling Settitle Function
     self.settitle()
 
     # Creating Statusbar
-    self.statusbar = Label(self.root,textvariable=self.status,font=("Courier New",9,"italic"),bd=2,relief=FLAT)
+    self.statusbar = Label(self.root,textvariable=self.status,font=("Consolas",9,"italic"),bd=2,relief=FLAT,bg="darkgreen",foreground="white")
     # Packing status bar to root window
     self.statusbar.pack(side=BOTTOM,fill=BOTH)
     # Initializing Status
     self.status.set("Welcome to Pyhton Text Editor by MyWare")
 
     # Creating Menubar
-    self.menubar = Menu(self.root,font=("Segoe UI",9),activebackground="skyblue")
+    self.menubar = Menu(self.root,font=("Consolas",9),bg="#161B22",foreground="white")
     # Configuring menubar on root window
     self.root.config(menu=self.menubar)
 
     # Creating File Menu
-    self.filemenu = Menu(self.menubar,font=("Segoe Ui",9),activebackground="skyblue",tearoff=0)
+    self.filemenu = Menu(self.menubar,font=("Consolas",9),tearoff=0,bg="#161B22",foreground="white")
     # Adding New file Command
     self.filemenu.add_command(label="New",accelerator="Ctrl+N",command=self.newfile)
     # Adding Open file Command
@@ -59,7 +59,7 @@ class TextEditor:
     self.menubar.add_cascade(label="File", menu=self.filemenu)
 
     # Creating Edit Menu
-    self.editmenu = Menu(self.menubar,font=("times new roman",12,"bold"),activebackground="skyblue",tearoff=0)
+    self.editmenu = Menu(self.menubar,font=("Consolas",9),tearoff=0,bg="#161B22",foreground="white")
     # Adding Cut text Command
     self.editmenu.add_command(label="Cut",accelerator="Ctrl+X",command=self.cut)
     # Adding Copy text Command
@@ -74,7 +74,7 @@ class TextEditor:
     self.menubar.add_cascade(label="Edit", menu=self.editmenu)
 
     # Creating Help Menu
-    self.helpmenu = Menu(self.menubar,font=("times new roman",12,"bold"),activebackground="skyblue",tearoff=0)
+    self.helpmenu = Menu(self.menubar,font=("Consolas",9),tearoff=0,bg="#161B22",foreground="white")
     # Adding About Command
     self.helpmenu.add_command(label="About",command=self.infoabout)
     # Cascading helpmenu to menubar
@@ -82,8 +82,9 @@ class TextEditor:
 
     # Creating Scrollbar
     scrol_y = Scrollbar(self.root,orient=VERTICAL)
+
     # Creating Text Area
-    self.txtarea = Text(self.root,yscrollcommand=scrol_y.set,font=("times new roman",15,"bold"),state="normal",relief=GROOVE)
+    self.txtarea = Text(self.root,yscrollcommand=scrol_y.set,font=("Consolas",12),state="normal",relief=FLAT,bg="#161B22",foreground="white",insertbackground='white')
     # Packing scrollbar to root window
     scrol_y.pack(side=RIGHT,fill=Y)
     # Adding Scrollbar to text area
@@ -120,7 +121,7 @@ class TextEditor:
     # Exception handling
     try:
       # Asking for file to open
-      self.filename = filedialog.askopenfilename(title = "Select file",filetypes = (("All Files","*.*"),("Text Files","*.txt"),("Python Files","*.py")))
+      self.filename = filedialog.askopenfilename(title = "Select file",filetypes = (("All Files","*.*"),("Text Files","*.txt"),("Python Files","*.py"),("HTML Files","*.html")))
       # checking if filename not none
       if self.filename:
         # opening file in readmode
@@ -167,7 +168,7 @@ class TextEditor:
     # Exception handling
     try:
       # Asking for file name and type to save
-      untitledfile = filedialog.asksaveasfilename(title = "Save file As",defaultextension=".txt",initialfile = "Untitled.txt",filetypes = (("All Files","*.*"),("Text Files","*.txt"),("Python Files","*.py")))
+      untitledfile = filedialog.asksaveasfilename(title = "Save file As",defaultextension=".txt",initialfile = "Untitled.txt",filetypes = (("All Files","*.*"),("Text Files","*.txt"),("Python Files","*.py"),("HTML Files","*.html")))
       # Reading the data from text area
       data = self.txtarea.get("1.0",END)
       # opening File in write mode
@@ -238,7 +239,7 @@ class TextEditor:
 
   # Defining About Funtion
   def infoabout(self):
-    webbrowser.open('https://openclassrooms.com/forum/sujet/mettre-un-lien-vers-un-navigateur')
+    webbrowser.open('https://myware386.github.io/python_text_editor/')
 
   # Defining shortcuts Funtion
   def shortcuts(self):
