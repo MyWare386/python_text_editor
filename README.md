@@ -79,4 +79,5 @@ Web
 Credits
 --------------------------------
 
-Project made by <a href="https://myware386.github.io/myware-website/">MyWare</a>
+Project made by <a href="https://myware386.github.io/myware-website/">MyWare</a>.
+Inspired by a tutorial.
