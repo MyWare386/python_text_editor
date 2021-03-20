@@ -25,6 +25,9 @@ Contents
 Installation
 ----------------
 
+| ⚠️ Maybe, you will need to change the directory for the editor's icon ⚠️
+|---
+
 - <h3>Executable</h3>
 
 Choose the theme that you want : dark or white.
