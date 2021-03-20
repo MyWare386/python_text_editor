@@ -4,7 +4,7 @@
 
 <br>
 
-A simple python text editor made by me
+A simple and hackable text editor made by me with Python.
 
 <br>
 
