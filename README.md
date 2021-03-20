@@ -11,7 +11,12 @@ A simple and hackable text editor made by me with Python.
 Contents
 ----------------
 
-- <a href="To use the dark mode, you must choose "text
+- <a href="https://github.com/MyWare386/python_text_editor#contents">Installation</a>
+  - <a href="https://github.com/MyWare386/python_text_editor#executable">Executable</a>
+  - <a href="https://github.com/MyWare386/python_text_editor#python">Python</a>
+  - <a href="https://github.com/MyWare386/python_text_editor#other">Other</a>
+- <a href="https://github.com/MyWare386/python_text_editor#dark-mode">Dark Mode</a>
+- <a href="https://github.com/MyWare386/python_text_editor#white-mode">White Mode</a>
 
 <br>
 
