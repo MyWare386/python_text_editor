@@ -11,7 +11,9 @@ A simple and hackable text editor made by me with Python.
 Contents
 ----------------
 
-- <a href="https://github.com/MyWare386/python_text_editor#contents">Installation</a>
+- <a href="https://github.com/MyWare386/python_text_editor#contents">Contents</a>
+- <a href="https://github.com/MyWare386/python_text_editor#news">News</a>
+- <a href="https://github.com/MyWare386/python_text_editor#installation">Installation</a>
   - <a href="https://github.com/MyWare386/python_text_editor#executable">Executable</a>
   - <a href="https://github.com/MyWare386/python_text_editor#python">Python</a>
   - <a href="https://github.com/MyWare386/python_text_editor#other">Other</a>
