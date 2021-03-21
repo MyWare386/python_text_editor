@@ -25,6 +25,13 @@ Contents
 
 <br>
 
+News
+----------------
+
+- 21/03/2021 : Python Text Editor is released
+
+<br>
+
 Installation
 ----------------
 
