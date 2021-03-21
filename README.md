@@ -28,7 +28,8 @@ Contents
 News
 ----------------
 
-- 21/03/2021 : Python Text Editor is released
+- 21/03/2021 : Python text Editor Website is done
+- 20/03/2021 : Python Text Editor is released
 
 <br>
 
