@@ -30,9 +30,13 @@ Installation
 
 - <h3>Executable</h3>
 
+Go to the exe directory.
+
 Choose the theme that you want : dark or white.
 
-Download and launch the "texteditor_[your-color].exe".
+Download and unzip the "texteditor_[your-color]_exe.zip".
+
+Launch the "texteditor_[your-color]_exe.exe".
 
 <br>
 
