@@ -81,13 +81,21 @@ Gallery
 
 Here are some pictures of the editor :
 
-- Dark Mode : <img src="readmefiles/Dark_Theme.JPG" />
+- Dark Mode : 
 
-- White Mode : <img src="readmefiles/White_Theme.JPG" />
+<img src="readmefiles/Dark_Theme.JPG" />
 
-- Logo (black) : <img src="logo.ico" />
+- White Mode : 
 
-- Logo (white) : <img src="logo%20(white).ico" />
+<img src="readmefiles/White_Theme.JPG" />
+
+- Logo (black) : 
+
+<img src="logo.ico" />
+
+- Logo (white) : 
+
+<img src="logo%20(white).ico" />
 
 <br>
 
