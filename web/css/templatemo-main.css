@@ -13,9 +13,9 @@ body {
   font-size: 14px;
 }
 
-a { color: #3CC; }
+a { color: #ff7d27; }
 
-a:hover { text-decoration: none; }
+a:hover { text-decoration: underline; }
 
 /*----------
 NAV
@@ -104,7 +104,7 @@ NAV
   boder-right: 0;
 }
 .fixed-side-navbar .nav > li a:hover > span {
-  text-decoration: underline;
+  color: #ff7d27;
   display: block;
 }
 
@@ -592,7 +592,7 @@ body.lb-disable-scrolling {
 }
 
 .lb-data .lb-caption a {
-  color: #4ae;
+  color: #ff7d27;
 }
 
 .lb-data .lb-number {
