@@ -76,6 +76,13 @@ To use the dark mode, you must choose "texteditor_white.exe/.py" when you instal
 
 <br>
 
+Gallery
+-----------------
+
+Here are some pictures of the editor :
+
+<br>
+
 Web
 -------------------------------
 
