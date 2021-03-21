@@ -1,6 +1,6 @@
 # python_text_editor
 
-<img src="logo.ico" height="100px" />
+<img src="logo%20(white).ico" height="100px" />
 
 A simple and hackable text editor made by me with Python.
 
