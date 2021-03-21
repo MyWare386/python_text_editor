@@ -17,6 +17,7 @@ Contents
   - <a href="https://github.com/MyWare386/python_text_editor#other">Other</a>
 - <a href="https://github.com/MyWare386/python_text_editor#dark-mode">Dark Mode</a>
 - <a href="https://github.com/MyWare386/python_text_editor#white-mode">White Mode</a>
+- <a href="https://github.com/MyWare386/python_text_editor#gallery">Gallery</a>
 - <a href="https://github.com/MyWare386/python_text_editor#web">Web</a>
 - <a href="https://github.com/MyWare386/python_text_editor#credits">Credits</a>
 
