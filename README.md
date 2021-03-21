@@ -81,6 +81,10 @@ Gallery
 
 Here are some pictures of the editor :
 
+- Dark Mode : <img src="readmefiles/Dark_Theme.JPG" />
+
+- White Mode : <img src="readmefiles/White_Theme.JPG" />
+
 <br>
 
 Web
