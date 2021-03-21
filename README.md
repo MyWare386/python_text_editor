@@ -78,6 +78,8 @@ To use the dark mode, you must choose "texteditor_white.exe/.py" when you instal
 Web
 -------------------------------
 
+The website of the project : https://myware386.github.io/python_text_editor/
+
 <br>
 
 Credits
