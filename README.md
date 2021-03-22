@@ -44,7 +44,7 @@ Installation
 
 You must install :
 
-Tkinter : write this line in the cmd -> <code>pip install tk</code>
+  Tkinter : write this line in the cmd -> <code>pip install tk</code>
 
 <br>
 
