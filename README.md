@@ -42,6 +42,12 @@ Installation
 
 - <h3>Librairies</h3>
 
+You must install :
+
+  - Regex : write this line in the cmd -> <code>pip install regex</code>
+  - PyInquirer : write this line in the cmd -> <code>pip install PyInquirer</code>
+  - Colorama : write this line in the cmd -> <code>pip install colorama</code>
+
 <br>
 
 - <h3>Executable</h3>
