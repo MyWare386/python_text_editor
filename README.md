@@ -44,7 +44,7 @@ Installation
 
 You must install :
 
-  - Regex : write this line in the cmd -> <code>pip install regex</code>
+  - Tkinter : write this line in the cmd -> <code>pip install tk</code>
   - PyInquirer : write this line in the cmd -> <code>pip install PyInquirer</code>
   - Colorama : write this line in the cmd -> <code>pip install colorama</code>
 
