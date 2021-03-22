@@ -14,6 +14,7 @@ Contents
 - <a href="https://github.com/MyWare386/python_text_editor#contents">Contents</a>
 - <a href="https://github.com/MyWare386/python_text_editor#news">News</a>
 - <a href="https://github.com/MyWare386/python_text_editor#installation">Installation</a>
+  - <a href="https://github.com/MyWare386/python_text_editor#librairies">Librairies</a>
   - <a href="https://github.com/MyWare386/python_text_editor#executable">Executable</a>
   - <a href="https://github.com/MyWare386/python_text_editor#python">Python</a>
   - <a href="https://github.com/MyWare386/python_text_editor#other">Other</a>
@@ -38,6 +39,10 @@ Installation
 
 | ⚠️ Maybe, you will need to change the directory for the editor's icon ⚠️
 |---
+
+- <h3>Librairies</h3>
+
+<br>
 
 - <h3>Executable</h3>
 
