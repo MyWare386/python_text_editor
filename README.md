@@ -13,6 +13,7 @@ Contents
 
 - <a href="https://github.com/MyWare386/python_text_editor#contents">Contents</a>
 - <a href="https://github.com/MyWare386/python_text_editor#news">News</a>
+- <a href="https://github.com/MyWare386/python_text_editor#note">Note</a>
 - <a href="https://github.com/MyWare386/python_text_editor#installation">Installation</a>
   - <a href="https://github.com/MyWare386/python_text_editor#librairies">Librairies</a>
   - <a href="https://github.com/MyWare386/python_text_editor#executable">Executable</a>
