@@ -69,7 +69,7 @@ Choose the theme that you want : dark or white.
 
 Write this line in the command prompt :
 
-    py \pathto\texteditor_[your-color].py
+    > py \pathto\texteditor_[your-color].py
 
 <br>
 
