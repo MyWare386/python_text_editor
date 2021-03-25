@@ -97,7 +97,7 @@ To use the dark mode, you must choose <code>"texteditor_dark.exe/.py"</code> whe
 White Mode
 ----------------
 
-To use the dark mode, you must choose "texteditor_white.exe/.py" when you install the editor.
+To use the dark mode, you must choose <code>"texteditor_white.exe/.py"</code> when you install the editor.
 
 <br>
 
