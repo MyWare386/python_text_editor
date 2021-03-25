@@ -127,7 +127,7 @@ Here are some pictures of the editor :
 Web
 -------------------------------
 
-The website of the editor : https://myware386.github.io/python_text_editor/ where you have everything you need : informations, files
+The website of the editor : https://myware386.github.io/python_text_editor/ where you have everything you need : informations, files, links ...
 
 <br>
 
