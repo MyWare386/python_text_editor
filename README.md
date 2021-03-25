@@ -60,9 +60,9 @@ Go to the exe directory.
 
 Choose the theme that you want : dark or white.
 
-Download and unzip the "texteditor_[your-color]_exe.zip".
+Download and unzip the <code>"texteditor_[your-color]_exe.zip"</code>.
 
-Launch the "texteditor_[your-color].exe".
+Launch the <code>"texteditor_[your-color].exe"</code>.
 
 <br>
 
