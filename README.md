@@ -83,7 +83,7 @@ Write this line in the command prompt :
 
 Some code editor let you execute python files directly.
 
-Or you can run the compiled pyhton file (.pyc).
+Or you can run the compiled pyhton file (<code>.pyc</code>).
 
 <br>
 
