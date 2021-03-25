@@ -90,7 +90,7 @@ Or you can run the compiled pyhton file (.pyc).
 Dark Mode
 ----------------
 
-To use the dark mode, you must choose "texteditor_dark.exe/.py" when you install the editor.
+To use the dark mode, you must choose <code>"texteditor_dark.exe/.py"</code> when you install the editor.
 
 <br>
 
