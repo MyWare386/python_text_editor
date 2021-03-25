@@ -134,6 +134,6 @@ The website of the editor : https://myware386.github.io/python_text_editor/ wher
 Credits
 --------------------------------
 
-Project made with Python, HTML, CSS and Javascript by <a href="https://myware386.github.io/myware-website/">MyWare</a>.
+Project made with Python, HTML, CSS and Javascript by <a href="https://myware386.github.io/myware-website/">**MyWare**</a>.
 
 Inspired by a tutorial.
